@@ -1,5 +1,5 @@
 ---
-title: "4. Innovation Systems (IS)"
+title: "4. Innovasjonssystemer (IS)"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
